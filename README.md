@@ -4,8 +4,8 @@ This is a numerical solution to a Sturm-Liouville-type ordinary differential equ
 
 The goal is to solve the linear second order ordinary differential equation, known as the Bessel Differential Equation
 ```math
-x^2 y^{\prime\prime} + x y^\prime + (x^2 - \nu^2)y = 0 \qquad \qquad y(0) = 0, \ y(20) = 1, \quad x \in [0,20] 
+$x^2 y^{\prime\prime} + x y^\prime + (x^2 - \nu^2)y = 0 \qquad \qquad y(0) = 0, \ y(20) = 1, \quad x \in [0,20] $
 ```
-for $\nu = 1,2,3,4,5,6,7.$ 
+for ```math$\nu = 1,2,3,4,5,6,7.$ ```
 
 This is a boundary value problem and the method used is finite differences.
