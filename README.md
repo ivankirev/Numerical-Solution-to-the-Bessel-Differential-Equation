@@ -4,7 +4,7 @@ This is a numerical solution to a Sturm-Liouville-type ordinary differential equ
 
 The goal is to solve the linear second order ordinary differential equation, known as the Bessel Differential Equation
 
-<img src="https://render.githubusercontent.com/render/math?math=x^2y''+xy^'+(x^2-\nu^2)y=0,%20y(0)=0,%20,%20y(20)=1,%20x%20\in%20[0,20]>
+<img src="https://render.githubusercontent.com/render/math?math=x^2y''+xy'+(x^2-\nu^2)y=0,%20y(0)=0,%20,%20y(20)=1,%20x%20\in%20[0,20]>
 
 for <img src="https://render.githubusercontent.com/render/math?math= \nu = 1,2,3,4,5,6,7.>
 
